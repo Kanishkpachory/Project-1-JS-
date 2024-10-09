@@ -1,7 +1,5 @@
 #PROJECT - 1 (JS)
 
-![Project Banner](https://via.placeholder.com/800x300?text=Project+1+JS)
-
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
@@ -9,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -59,15 +56,6 @@ The project allows users to:
 1. Interact with the page via buttons and input fields.
 2. Experience dynamic styling changes as they interact.
 3. See real-time updates on the web page based on their actions.
-
----
-
-## Screenshots
-### Landing Page
-![Landing Page](https://via.placeholder.com/600x400?text=Landing+Page)
-
-### Interaction Example
-![Interaction](https://via.placeholder.com/600x400?text=User+Interaction)
 
 ---
 
