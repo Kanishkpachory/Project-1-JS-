@@ -76,6 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ├── script.js          # JavaScript logic
 ├── README.md          # Project documentation
 \`\`\`
-" > README.md
-
-echo "README.md created successfully!"
